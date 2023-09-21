@@ -1,0 +1,16 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "this is a basic board game",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "build-watch": "webpack -w"
+  },
+  "author": "Sam Hogue",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
